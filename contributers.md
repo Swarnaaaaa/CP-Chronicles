@@ -54,5 +54,6 @@
 | Roshan Gupta           | roshangupta4804-hue        | IIIT Allahabad  |
 |Vishal|Cosmic-Viz|IIIT Allahabad|
 | Harshit Sethi          | HarshitRSethi         | IIIT Allahabad                                                   |
+| Rushal Verma           | Rushalverma           | IIIT Allahabad                                                   |
 <!-- ADD ABOVE THIS -->
 <!-- example | Korvac | Betty | Reyansh College | -->
